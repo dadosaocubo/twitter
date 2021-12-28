@@ -1,0 +1,5 @@
+APP_NAME = 'TwitterAoCubo'
+API_KEY = 'Sua API key'
+API_KEY_SECRET = 'Sua API key secret'
+ACCESS_TOKEN = 'Seu access token'
+ACCESS_TOKEN_SECRET = 'Seu access token secret'
